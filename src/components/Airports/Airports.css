@@ -1,0 +1,34 @@
+.Back-button {
+    width: 120px;
+    height: 60px;
+    margin: 50px;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+.AirportsDetails {
+  border: 1px solid gray;
+  text-align: center;
+}
+
+.AirportsDetails > input {
+  width: 90%;
+  margin: 15px;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.Table {
+  width: 100%;
+}
+
+.Table th {
+  height: 36px;
+  color: white;
+  background-color: gray;
+  text-align: center;
+}
+
+.Table td {
+  height: 36px;
+}

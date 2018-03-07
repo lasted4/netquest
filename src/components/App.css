@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 50px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  background-color: #222;
+  color: white;
+}
